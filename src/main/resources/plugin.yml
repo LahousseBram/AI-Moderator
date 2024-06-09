@@ -1,0 +1,4 @@
+name: AIModerator
+version: '${project.version}'
+main: me.cosmicdev.aimoderator.AIModerator
+api-version: '1.20'

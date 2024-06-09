@@ -1,0 +1,4 @@
+name: AIModerator
+version: '1.0-SNAPSHOT'
+main: me.cosmicdev.aimoderator.AIModerator
+api-version: '1.20'
